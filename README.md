@@ -1,10 +1,8 @@
-**<!-- 💎 VIP Developer Profile for Muhammad Nouman -->
+<!-- 💎 VIP Developer Profile for Muhammad Nouman -->
 
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=500&color=00E0FF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Muhammad+Nouman!;💻+Python+%26+Django+Developer;🚀+Building+Scalable+Backend+Systems;🔥+Automation+%7C+APIs+%7C+Fullstack" alt="Typing SVG" />
-
-<img src="https://github.com/MuhammadNouman769.png" alt="Muhammad Nouman" width="150" style="border-radius:50%; margin-top:20px;"/>
 
 <h2>💎 Passionate Developer | Backend Architect | Tech Explorer</h2>
 
@@ -43,7 +41,7 @@
 
 #### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SQLite3](https://img.shields.io/badge/SQLite3-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
@@ -85,4 +83,3 @@
 
 ✨ _Made with ❤️ by Muhammad Nouman_
 </div>
-**
