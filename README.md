@@ -37,7 +37,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
 #### ⚙️ Tools & Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -60,7 +59,9 @@
 ---
 
 ### 🧩 Featured Projects
-🔹 [Goallinereport](https://github.com/MuhammadNouman769/Goallinereport) — A content-focused Django platform with Stories, Posts, and Celery-based background tasks.
+🔹 [GoalNews](https://github.com/MuhammadNouman769/goalnews) — A Django-based sports content platform for managing articles, videos, and media.  
+🔹 [Goallinereport](https://github.com/MuhammadNouman769/Goallinereport) — A content-focused Django platform with stories, posts, and Celery-based background tasks.  
+🔹 [MuhammadNouman769 Profile Repo](https://github.com/MuhammadNouman769/MuhammadNouman769) — My personal GitHub portfolio and profile README.
 
 ---
 
