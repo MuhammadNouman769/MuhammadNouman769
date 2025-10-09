@@ -1,4 +1,4 @@
-<!-- 💎 VIP Developer Profile for Muhammad Nouman -->
+**<!-- 💎 VIP Developer Profile for Muhammad Nouman -->
 
 <div align="center">
 
@@ -85,3 +85,4 @@
 
 ✨ _Made with ❤️ by Muhammad Nouman_
 </div>
+**
