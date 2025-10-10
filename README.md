@@ -61,6 +61,8 @@
 | **GoalNews** | Django-based sports content platform with video/media handling | [🔗 View Repo](https://github.com/MuhammadNouman769/goalnews) |
 | **Goallinereport** | Scalable Django platform for stories, posts & Celery background tasks | [🔗 View Repo](https://github.com/MuhammadNouman769/Goallinereport) |
 | **Portfolio Profile** | My personal GitHub portfolio & professional profile showcase | [🔗 View Repo](https://github.com/MuhammadNouman769/MuhammadNouman769) |
+| **Company API** | Django REST API for managing companies, employees & organizational data | [🔗 View Repo](https://github.com/MuhammadNouman769/company_api)) |
+
 
 ---
 
