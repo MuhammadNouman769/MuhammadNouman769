@@ -1,4 +1,4 @@
-<!-- 💎 VIP Developer Profile for Muhammad Nouman | Highly Professional Edition -->
+<!-- 💎 VIP Developer Profile for Muhammad Nouman | Professional Edition -->
 
 <div align="center">
 
@@ -6,17 +6,17 @@
 
 ---
 
-### 💎 Backend Developer | Django Expert | Automation Enthusiast
-🎯 **Building real-world solutions** with Django, Celery & APIs  
-⚙️ Skilled in **backend architecture**, async workflows & database design  
-🌱 Constantly evolving through **learning, problem-solving, and innovation**  
-💡 “Turning ideas into production-ready systems.”
+### 💎 Muhammad Nouman | Backend Developer & Django Specialist
+🎯 **Building scalable, production-ready solutions** with Django, DRF & Celery  
+⚙️ Expert in **backend architecture, async workflows & database design**  
+🌱 Passionate about **continuous learning, problem-solving & automation**  
+💡 *“Turning ideas into clean, maintainable, and efficient code.”*
 
 ---
 
 ### 🧠 Technical Expertise
 
-#### ⚙️ Backend Frameworks
+#### ⚙️ Backend & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
@@ -24,7 +24,7 @@
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-#### 🎨 Frontend Technologies
+#### 🎨 Frontend & Interaction
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap5](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -32,7 +32,7 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![AJAX](https://img.shields.io/badge/AJAX-005571?style=for-the-badge)
 
-#### 🗄️ Databases
+#### 🗄️ Databases & Storage
 ![SQLite3](https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -49,8 +49,8 @@
 ---
 
 ### 🏗️ Development Stack
-> **Ready-to-Run Django Environment:**  
-> SQLite3 • Celery • Redis • Static & Media Handling • REST APIs  
+> **Full-Stack Django Environment:**  
+> SQLite3 • PostgreSQL • Celery • Redis • REST APIs • Static & Media Management  
 
 ---
 
@@ -58,15 +58,15 @@
 
 | 🚀 Project | 📝 Description | 🔗 Link |
 |:-----------|:-----------------|:--------|
-| **GoalNews** | Django-based sports content platform with video/media handling | [🔗 View Repo](https://github.com/MuhammadNouman769/goalnews) |
-| **Goallinereport** | Scalable Django platform for stories, posts & Celery background tasks | [🔗 View Repo](https://github.com/MuhammadNouman769/Goallinereport) |
-| **Portfolio Profile** | My personal GitHub portfolio & professional profile showcase | [🔗 View Repo](https://github.com/MuhammadNouman769/MuhammadNouman769) |
-| **Company API** |Django REST API using HyperlinkedModelSerializer & ViewSets.| [🔗 View Repo](https://github.com/MuhammadNouman769/company_api) |
-
+| **GoalNews** | Django-based sports content platform with video/media handling | [Repo](https://github.com/MuhammadNouman769/goalnews) |
+| **Goallinereport** | Scalable Django platform for stories, posts & Celery background tasks | [Repo](https://github.com/MuhammadNouman769/Goallinereport) |
+| **Portfolio Profile** | Personal GitHub portfolio & professional showcase | [Repo](https://github.com/MuhammadNouman769/MuhammadNouman769) |
+| **Company API** | Django REST API using HyperlinkedModelSerializer & ViewSets | [Repo](https://github.com/MuhammadNouman769/company_api) |
 
 ---
 
 ### 📊 GitHub Analytics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadNouman769&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadNouman769&theme=tokyonight&hide_border=true&border_radius=10" height="165">
@@ -78,8 +78,13 @@
 
 ---
 
-🤝 Connect With Me
-<p align="center"> <a href="mailto:nomannisar769@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/muhammad-nouman-524ab9360/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/MuhammadNouman769"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a> <a href="https://www.postman.com/muhammadnouman769"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a> </p>
+### 🤝 Connect With Me
+<p align="center">
+  <a href="mailto:nomannisar769@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-nouman-524ab9360/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/MuhammadNouman769"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.postman.com/muhammadnouman769"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a>
+</p>
 
 ---
 
