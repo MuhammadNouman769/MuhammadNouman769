@@ -73,20 +73,19 @@
 | **Portfolio Profile** | Personal GitHub portfolio & professional showcase | [Repo](https://github.com/MuhammadNouman769/MuhammadNouman769) |
 | **Company API** | Django REST API using HyperlinkedModelSerializer & ViewSets | [Repo](https://github.com/MuhammadNouman769/company_api) |
 
----
 ### 📊 GitHub Activity Overview
 
 <p align="center">
-  <!-- GitHub Streak – Clean & Focused -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNouman769&theme=onedark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=450" height="180" alt="Contribution Streak">
+  <!-- Streak Card – Beautiful with date format, larger for impact -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNouman769&theme=dracula&hide_border=true&border_radius=12&date_format=M+j%5B%2C+Y%5D&card_width=500&stroke=00000000" height="200" alt="Contribution Streak">
 </p>
 
-<p align="center">
-  <!-- Detailed Stats Card – More metrics, custom title, icons -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=MuhammadNouman769&show_icons=true&count_private=true&theme=onedark&hide_border=true&border_radius=10&custom_title=Muhammad%27s%20GitHub%20Stats&include_all_commits=true&show=prs_merged,prs_merged_percentage,reviews,discussions_started,discussions_answered&card_width=500" height="200" alt="Detailed GitHub Stats">
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <!-- Detailed Stats Card – Full details, custom title, extra metrics -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MuhammadNouman769&show_icons=true&count_private=true&theme=dracula&hide_border=true&border_radius=12&custom_title=Muhammad's+GitHub+Stats&include_all_commits=true&show=prs_merged,prs_merged_percentage,reviews,discussions_started,discussions_answered,contribs&card_width=500" height="200" alt="Detailed GitHub Stats">
   
-  <!-- Top Languages – Compact & Detailed -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=MuhammadNouman769&layout=compact&theme=onedark&hide_border=true&border_radius=10&langs_count=8&card_width=500" height="200" alt="Top Languages">
+  <!-- Top Languages – More langs visible, compact but detailed -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=MuhammadNouman769&layout=compact&theme=dracula&hide_border=true&border_radius=12&langs_count=10&card_width=500" height="200" alt="Top Languages">
 </p>
 ---
 
