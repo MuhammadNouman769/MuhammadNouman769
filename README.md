@@ -51,7 +51,7 @@
 ![Cursor](https://img.shields.io/badge/Cursor-F1F1F1?style=for-the-badge&logo=cursor&logoColor=black)
 ![Antigravity](https://img.shields.io/badge/Antigravity-FF6F61?style=for-the-badge&logo=python&logoColor=white)
 ![Profanity](https://img.shields.io/badge/Profiler-6B7280?style=for-the-badge&logo=python&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-2C2D72?style=for-the-badge&logo=pycharm&logoColor=F8F8F2)
+![PyCharm](https://img.shields.io/badge/PyCharm-2C2D72?style=for-the-badge&logo=pycharm&logoColor=#005F02)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
