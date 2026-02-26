@@ -77,6 +77,7 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNouman769&theme=tokyonight&hide_border=true&border_radius=10" height="165">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=MuhammadNouman769&show_icons=true&count_private=true&theme=tokyonight" height="165">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=MuhammadNouman769&layout=compact&theme=tokyonight" height="165">
 </p>
