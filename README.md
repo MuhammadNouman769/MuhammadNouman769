@@ -82,7 +82,9 @@
   <a href="https://www.linkedin.com/in/muhammad-nouman-524ab9360/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/MuhammadNouman769"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
   <a href="https://www.postman.com/muhammadnouman769"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a>
-  <a href="https://wa.me/923285774948"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+ <a href="https://wa.me/923285774948?text=Hello%20Nouman%2C%20I%20would%20like%20to%20connect%20with%20you!" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 </p>
 
 ---
