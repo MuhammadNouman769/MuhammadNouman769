@@ -78,16 +78,16 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Streak Stats -->
+  <!-- Contribution Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNouman769&theme=tokyonight&hide_border=true&border_radius=10" height="165">
 
-  <!-- Top Languages -->
+  <!-- Top Languages Used -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNouman769&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165">
 
-  <!-- GitHub Stats -->
+  <!-- GitHub Overall Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadNouman769&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" height="165">
 </p>
----
+
 
 ### 🤝 Connect With Me
 <p align="center">
