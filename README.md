@@ -46,6 +46,10 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=green)
+![Cursor](https://img.shields.io/badge/Cursor-F1F1F1?style=for-the-badge&logo=cursor&logoColor=black)
+![Antigravity](https://img.shields.io/badge/Antigravity-FF6F61?style=for-the-badge&logo=python&logoColor=white)
+![Profanity](https://img.shields.io/badge/Profiler-6B7280?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
