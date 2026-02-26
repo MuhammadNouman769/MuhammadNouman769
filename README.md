@@ -74,11 +74,19 @@
 | **Company API** | Django REST API using HyperlinkedModelSerializer & ViewSets | [Repo](https://github.com/MuhammadNouman769/company_api) |
 
 ---
-### 📊 GitHub Analytics
+### 📊 GitHub Activity Overview
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNouman769&theme=dark&hide_border=true&border_radius=10" height="165">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=MuhammadNouman769&show_icons=true&count_private=true&theme=dark" height="165">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=MuhammadNouman769&layout=compact&theme=dark" height="165">
+  <!-- GitHub Streak – Clean & Focused -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNouman769&theme=onedark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=450" height="180" alt="Contribution Streak">
+</p>
+
+<p align="center">
+  <!-- Detailed Stats Card – More metrics, custom title, icons -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MuhammadNouman769&show_icons=true&count_private=true&theme=onedark&hide_border=true&border_radius=10&custom_title=Muhammad%27s%20GitHub%20Stats&include_all_commits=true&show=prs_merged,prs_merged_percentage,reviews,discussions_started,discussions_answered&card_width=500" height="200" alt="Detailed GitHub Stats">
+  
+  <!-- Top Languages – Compact & Detailed -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=MuhammadNouman769&layout=compact&theme=onedark&hide_border=true&border_radius=10&langs_count=8&card_width=500" height="200" alt="Top Languages">
 </p>
 ---
 
