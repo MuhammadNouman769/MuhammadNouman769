@@ -123,7 +123,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=MuhammadNouman769&layout=compact&theme=dracula&hide_border=true&border_radius=12&langs_count=10&card_width=500" height="200" alt="Top Languages">
 </p>
 ---
-
 ### 🤝 Connect With Me
 <p align="center">
   <a href="mailto:nomannisar769@gmail.com">
@@ -138,7 +137,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 
-  <a href="https://www.postman.com/muhammadnouman769">
+  <a href="https://www.postman.com/collections">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   </a>
 
@@ -146,23 +145,14 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 
-  <a href="#">
+  <a href="https://app.slack.com/client/T0ANGBVVBA9/D0AN4BE9RFH">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
   </a>
 
-  <a href="#">
+  <a href="https://discord.com/users">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-
-  <a href="#">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-
-  <a href="#">
-    <img src="https://img.shields.io/badge/Zoom-0B5CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
-  </a>
 </p>
-
 
 
 ---
