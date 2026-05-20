@@ -26,12 +26,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 🎨 UI Libraries & Styling Tools
 ![Bootstrap5](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -43,8 +39,6 @@
 
 ### ⚡ Frontend Build Tools & Libraries
 ![AJAX](https://img.shields.io/badge/AJAX-005571?style=for-the-badge)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### 🗄️ Databases & Storage
 ![SQLite3](https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -60,8 +54,6 @@
 ### 🛠️ DevOps & Server Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-384D54?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
@@ -100,10 +92,11 @@
 
 | 🚀 Project | 📝 Description | 🔗 Link |
 |:-----------|:-----------------|:--------|
-| **GoalNews** | Django-based sports content platform with video/media handling | [Repo](https://github.com/MuhammadNouman769/goalnews) |
+| **Electromechanica** | Django-based Electromechanica is a trusted Mechanical & Electrical Engineering company | [Repo]([https://github.com/MuhammadNouman769/goalnews](https://github.com/MuhammadNouman769/onlineshowroom)) |
 | **Goallinereport** | Scalable Django platform for stories, posts & Celery background tasks | [Repo](https://github.com/MuhammadNouman769/Goallinereport) |
+| **BTR Mall** | This project is a modular E-commerce REST API with React Website and React Native Mobile Application (B2B + B2C) built using Django and Django REST Framework (DRF) and React and React Native.
+It provides endpoints for user accounts, products, categories, orders, payments, shipping, reviews, and promotions and many more features | [Repo]([https://github.com/MuhammadNouman769/company_api](https://github.com/MuhammadNouman769/BTR-Mall)) |
 | **Portfolio Profile** | Personal GitHub portfolio & professional showcase | [Repo](https://github.com/MuhammadNouman769/MuhammadNouman769) |
-| **Company API** | Django REST API using HyperlinkedModelSerializer & ViewSets | [Repo](https://github.com/MuhammadNouman769/company_api) |
 
 ---
 
