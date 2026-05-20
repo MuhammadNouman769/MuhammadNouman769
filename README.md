@@ -88,20 +88,27 @@
 
 ---
 
-## 🏆 Featured Projects
 
-| Project | Tech Stack | Highlights |
-|---------|------------|------------|
-| **Electromechanica** | Django | Mechanical & Electrical Engineering company website |
-| **Goallinereport** | Django, Celery | News platform with background tasks |
-| **BTR Mall** | Django, DRF, React, React Native | Complete B2B/B2C E-commerce ecosystem |
-| **Portfolio** | GitHub Profile | Professional project showcase |
+## 🏆 Featured Work
 
-### 🔗 Live Repos
-- [Electromechanica](https://github.com/MuhammadNouman769/onlineshowroom)
-- [Goallinereport](https://github.com/MuhammadNouman769/Goallinereport)
-- [BTR Mall](https://github.com/MuhammadNouman769/BTR-Mall)
-- [Portfolio](https://github.com/MuhammadNouman769/MuhammadNouman769)
+### [Electromechanica](https://github.com/MuhammadNouman769/onlineshowroom)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+> Engineering company website
+
+### [Goallinereport](https://github.com/MuhammadNouman769/Goallinereport)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
+> Scalable news platform
+
+### [BTR Mall](https://github.com/MuhammadNouman769/BTR-Mall)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+> Complete E-commerce ecosystem (B2B + B2C)
+
+### [Portfolio](https://github.com/MuhammadNouman769/MuhammadNouman769)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+> Professional showcase
 ---
 
 ## 📊 GitHub Activity Overview
