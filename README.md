@@ -90,14 +90,18 @@
 
 ## 🏆 Featured Projects
 
-| 🚀 Project | 📝 Description | 🔗 Link |
-|:-----------|:-----------------|:--------|
-| **Electromechanica** | Django-based Electromechanica is a trusted Mechanical & Electrical Engineering company | [Repo]([https://github.com/MuhammadNouman769/goalnews](https://github.com/MuhammadNouman769/onlineshowroom)) |
-| **Goallinereport** | Scalable Django platform for stories, posts & Celery background tasks | [Repo](https://github.com/MuhammadNouman769/Goallinereport) |
-| **BTR Mall** | This project is a modular E-commerce REST API with React Website and React Native Mobile Application (B2B + B2C) built using Django and Django REST Framework (DRF) and React and React Native.
-It provides endpoints for user accounts, products, categories, orders, payments, shipping, reviews, and promotions and many more features | [Repo]([https://github.com/MuhammadNouman769/company_api](https://github.com/MuhammadNouman769/BTR-Mall)) |
-| **Portfolio Profile** | Personal GitHub portfolio & professional showcase | [Repo](https://github.com/MuhammadNouman769/MuhammadNouman769) |
+| Project | Tech Stack | Highlights |
+|---------|------------|------------|
+| **Electromechanica** | Django | Mechanical & Electrical Engineering company website |
+| **Goallinereport** | Django, Celery | News platform with background tasks |
+| **BTR Mall** | Django, DRF, React, React Native | Complete B2B/B2C E-commerce ecosystem |
+| **Portfolio** | GitHub Profile | Professional project showcase |
 
+### 🔗 Live Repos
+- [Electromechanica](https://github.com/MuhammadNouman769/onlineshowroom)
+- [Goallinereport](https://github.com/MuhammadNouman769/Goallinereport)
+- [BTR Mall](https://github.com/MuhammadNouman769/BTR-Mall)
+- [Portfolio](https://github.com/MuhammadNouman769/MuhammadNouman769)
 ---
 
 ## 📊 GitHub Activity Overview
