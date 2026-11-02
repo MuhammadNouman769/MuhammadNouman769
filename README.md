@@ -14,6 +14,7 @@
 <img src="https://komarev.com/ghpvc/?username=MuhammadNouman769&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views" />
 <img src="https://img.shields.io/github/followers/MuhammadNouman769?style=for-the-badge&logo=github&color=8957e5" alt="followers" />
 <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Remote-00c853?style=for-the-badge" alt="open to work" />
+<a href="https://xveralabs.pythonanywhere.com/"><img src="https://img.shields.io/badge/Founder%20%40-XVeraLabs-00E0FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117" alt="XVeraLabs" /></a>
 
 </div>
 
@@ -78,6 +79,75 @@ class MuhammadNouman:
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-384D54?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ═════════════ XVERALABS ═════════════ -->
+## 🚀 XVeraLabs: My Software House
+
+<div align="center">
+
+<a href="https://xveralabs.pythonanywhere.com/">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=800&color=00E0FF&center=true&vCenter=true&width=760&height=50&lines=XVeraLabs;Custom+Software+%E2%80%A2+AI+%E2%80%A2+Cloud+Engineering;From+First+Idea+to+Production+%F0%9F%9A%80" alt="XVeraLabs" />
+</a>
+
+*We build web, mobile, e-commerce and AI products for startups, SMEs and enterprises.*
+
+<a href="https://xveralabs.pythonanywhere.com/">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Visit%20XVeraLabs-xveralabs.pythonanywhere.com-00E0FF?style=for-the-badge&labelColor=0d1117" alt="Visit XVeraLabs" />
+</a>
+<a href="https://xveralabs.pythonanywhere.com/contact/contact-us/">
+  <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Get%20a%20Free%20Consultation-8957e5?style=for-the-badge&labelColor=0d1117" alt="Free consultation" />
+</a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💻 Custom Software
+Web apps, mobile apps, admin dashboards, APIs & integrations
+
+</td>
+<td align="center" width="33%">
+
+### 🤖 AI & Automation
+Chatbots, RAG knowledge assistants, AI agents & workflow automation (OpenAI, Claude, Gemini)
+
+</td>
+<td align="center" width="33%">
+
+### ☁️ Cloud & DevOps
+Migration, CI/CD, Docker & Kubernetes, monitoring, infrastructure as code
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 🛒 E-Commerce
+Online stores, marketplaces, recommendation engines
+
+</td>
+<td align="center">
+
+### 📊 Data & Analytics
+Dashboards, reporting, data engineering & scraping
+
+</td>
+<td align="center">
+
+### 🧭 Consulting & MVPs
+Product & tech strategy, MVP development, QA & testing
+
+</td>
+</tr>
+</table>
+
+**🔄 Our Process:** `Discover` → `Design` → `Build` → `Launch & Support`
 
 </div>
 
@@ -173,11 +243,13 @@ Clean, professional personal portfolio & GitHub showcase.
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadNouman769&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="98%" alt="activity graph" />
+<img src="https://ghchart.rshah.org/00E0FF/MuhammadNouman769" width="95%" alt="Contribution chart" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MuhammadNouman769&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies" />
+<img src="https://img.shields.io/github/stars/MuhammadNouman769?style=for-the-badge&logo=github&color=ffcc00&labelColor=0d1117" alt="stars" />
+<img src="https://img.shields.io/github/followers/MuhammadNouman769?style=for-the-badge&logo=github&color=8957e5&labelColor=0d1117" alt="followers" />
+<img src="https://img.shields.io/github/languages/count/MuhammadNouman769/Goallinereport?style=for-the-badge&logo=python&color=00c853&labelColor=0d1117&label=Languages" alt="languages" />
 
 </div>
 
@@ -191,6 +263,7 @@ Clean, professional personal portfolio & GitHub showcase.
 <a href="mailto:nomannisar769@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/muhammad-nouman-524ab9360/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/MuhammadNouman769"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://xveralabs.pythonanywhere.com/"><img src="https://img.shields.io/badge/XVeraLabs-00E0FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" /></a>
 <a href="https://wa.me/923285774948?text=Hello%20Nouman%2C%20I%20would%20like%20to%20connect%20with%20you!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 <br/><br/>
