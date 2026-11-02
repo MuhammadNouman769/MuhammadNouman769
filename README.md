@@ -1,154 +1,206 @@
-<!-- 💎 VIP Developer Profile for Muhammad Nouman | Professional Edition -->
+<!-- ✨ Muhammad Nouman | Animated Professional GitHub Profile -->
+
+<!-- ═════════════ ANIMATED HEADER ═════════════ -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=3000&pause=600&color=00E0FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Muhammad+Nouman;💻+Backend+Engineer+%26+Django+Developer;🚀+Crafting+Scalable+Web+%26+Automation+Systems;🎯+Driven+by+Code,+Creativity,+and+Clarity" alt="Typing Animation" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=230&section=header&text=Muhammad%20Nouman&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%E2%80%A2%20Django%20Specialist%20%E2%80%A2%20Automation%20Builder&descSize=18&descAlignY=58" width="100%" alt="header" />
 
-### 💎 Muhammad Nouman | Backend Developer & Django Specialist
+<a href="https://github.com/MuhammadNouman769">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00E0FF&center=true&vCenter=true&multiline=false&width=820&height=60&lines=%F0%9F%91%8B+Hi%2C+I'm+Muhammad+Nouman;%F0%9F%92%BB+Backend+Engineer+%26+Django+Developer;%F0%9F%9A%80+Building+Scalable+APIs+%26+Automation+Systems;%E2%9A%99%EF%B8%8F+Django+%E2%80%A2+DRF+%E2%80%A2+Celery+%E2%80%A2+Redis+%E2%80%A2+PostgreSQL;%F0%9F%A7%A0+Now+Leveling+Up+Into+AI+%2F+ML+Engineering;%F0%9F%8E%AF+Clean+Code.+Clear+Thinking.+Real+Impact." alt="Typing SVG" />
+</a>
 
-🎯 **Building scalable, production-ready solutions** with Django, DRF & Celery  
-⚙️ Expert in **backend architecture, async workflows & database design**  
-🌱 Passionate about **continuous learning, problem-solving & automation**  
-💡 *“Turning ideas into clean, maintainable, and efficient code.”*
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=MuhammadNouman769&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/MuhammadNouman769?style=for-the-badge&logo=github&color=8957e5" alt="followers" />
+<img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Remote-00c853?style=for-the-badge" alt="open to work" />
 
-## 🧠 Technical Expertise
+</div>
 
-### 🏗️ Backend Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+<br/>
 
-### 🎨 Frontend Languages & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<!-- ═════════════ ABOUT ═════════════ -->
+## 👨‍💻 About Me
 
-### 🎨 UI Libraries & Styling Tools
-![Bootstrap5](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
-![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge)
+<table>
+<tr>
+<td width="60%">
 
-### ⚡ Frontend Build Tools & Libraries
-![AJAX](https://img.shields.io/badge/AJAX-005571?style=for-the-badge)
+```python
+class MuhammadNouman:
+    role      = "Backend Engineer & Django Specialist"
+    location  = "Pakistan 🇵🇰"
+    stack     = ["Python", "Django", "DRF", "FastAPI",
+                 "Celery", "Redis", "PostgreSQL", "Docker"]
+    currently = "Deepening skills in AI / ML Engineering"
+    focus     = ["Scalable APIs", "Async Workflows",
+                 "Database Design", "Automation"]
+    motto     = "Turn ideas into clean, maintainable, efficient code."
 
-### 🗄️ Databases & Storage
-![SQLite3](https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+    def build(self):
+        return "Production-ready solutions 🚀"
+```
 
-### 🔄 Background Tasks & Caching
+</td>
+<td width="40%" align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=700&color=F7DF1E&vCenter=true&width=330&height=120&lines=%3E+Writing+clean+code...;%3E+Designing+scalable+systems...;%3E+Automating+the+boring+stuff...;%3E+Shipping+to+production...;%3E+Always+learning." alt="terminal" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═════════════ TECH STACK ═════════════ -->
+## 🧠 Tech Stack
+
+<div align="center">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,graphql,postgres,mongodb,mysql,sqlite,redis&perline=9" alt="backend" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,sass,jquery,alpinejs&perline=9" alt="frontend" />
+
+**DevOps, Cloud & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,aws,digitalocean,git,github,gitlab,bitbucket,githubactions,postman,vscode,pycharm,cursor,jupyter&perline=15" alt="devops" />
+
+<br/>
+
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🛠️ DevOps & Server Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logo=htmx&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-384D54?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-
-### 🔧 Version Control & Collaboration
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### 🧪 API Testing & Development Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
-### 💻 IDEs & Editors
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-F1F1F1?style=for-the-badge&logo=cursor&logoColor=black)
-![PyCharm](https://img.shields.io/badge/PyCharm-2C2D72?style=for-the-badge&logo=pycharm&logoColor=44B78B)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+</div>
 
----
+<br/>
 
-## 🏗️ Development Stack
+<!-- ═════════════ ARCHITECTURE ═════════════ -->
+## 🏗️ How I Build Backends
 
-> **Full-Stack Django Environment:**  
-> SQLite3 • PostgreSQL • Celery • Redis • REST APIs • Static & Media Management
+```mermaid
+flowchart LR
+    A[🌐 Client<br/>React / Mobile] --> B[🚪 Django REST API]
+    B --> C[(🐘 PostgreSQL)]
+    B --> D[(⚡ Redis Cache)]
+    B --> E[📨 Celery Workers]
+    E --> D
+    E --> F[📧 Emails / Reports / Automation]
+    B --> G[🐳 Docker + CI/CD] --> H[☁️ AWS / DigitalOcean]
+```
 
----
+<br/>
 
-### 🏆 Featured Projects
+<!-- ═════════════ PROJECTS ═════════════ -->
+## 🏆 Featured Projects
 
-| Project              | Description                                                                 | Link |
-|----------------------|-----------------------------------------------------------------------------|------|
-| **Electromechanica** | Django-based website for a trusted Mechanical & Electrical Engineering company | [View Repo](https://github.com/MuhammadNouman769/onlineshowroom) |
-| **Goallinereport**   | Scalable Django platform for stories, posts with Celery background tasks     | [View Repo](https://github.com/MuhammadNouman769/Goallinereport) |
-| **BTR Mall**         | Full-stack E-commerce (B2B + B2C) with Django REST API, React Web & React Native App | [View Repo](https://github.com/MuhammadNouman769/BTR-Mall) |
-| **Portfolio**        | Clean & professional personal portfolio and GitHub showcase                 | [View Repo](https://github.com/MuhammadNouman769/MuhammadNouman769) |
+<div align="center">
 
+<table>
+<tr>
+<td align="center" width="50%">
 
+### 🏭 Electromechanica
+Django website for a trusted Mechanical & Electrical Engineering company.
 
----
+<img src="https://skillicons.dev/icons?i=python,django,postgres,bootstrap" /><br/>
+<a href="https://github.com/MuhammadNouman769/onlineshowroom">
+<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
+</a>
 
-## 📊 GitHub Activity Overview
+</td>
+<td align="center" width="50%">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNouman769&theme=dracula&hide_border=true&border_radius=12&date_format=M+j%5B%2C+Y%5D&card_width=500&stroke=00000000" height="200" alt="Contribution Streak">
-</p>
+### 📰 Goallinereport
+Scalable Django platform for stories & posts with Celery background tasks.
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=MuhammadNouman769&show_icons=true&count_private=true&theme=dracula&hide_border=true&border_radius=12&custom_title=Muhammad's+GitHub+Stats&include_all_commits=true&show=prs_merged,prs_merged_percentage,reviews,discussions_started,discussions_answered,contribs&card_width=500" height="200" alt="Detailed GitHub Stats">
- 
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=MuhammadNouman769&layout=compact&theme=dracula&hide_border=true&border_radius=12&langs_count=10&card_width=500" height="200" alt="Top Languages">
-</p>
+<img src="https://skillicons.dev/icons?i=python,django,redis,postgres" /><br/>
+<a href="https://github.com/MuhammadNouman769/Goallinereport">
+<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
+</a>
 
----
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-## 🤝 Connect With Me
+### 🛒 BTR Mall
+Full-stack E-commerce (B2B + B2C): Django REST API, React Web & React Native App.
 
-<p align="center">
-  <a href="mailto:nomannisar769@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-nouman-524ab9360/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/MuhammadNouman769">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.postman.com/collections">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/923285774948?text=Hello%20Nouman%2C%20I%20would%20like%20to%20connect%20with%20you!" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://app.slack.com/client/T0ANGBVVBA9/D0AN4BE9RFH">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/users">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=django,react,postgres,docker" /><br/>
+<a href="https://github.com/MuhammadNouman769/BTR-Mall">
+<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
+</a>
 
----
+</td>
+<td align="center" width="50%">
 
-## 💬 Professional Quote
+### 🎨 Portfolio
+Clean, professional personal portfolio & GitHub showcase.
 
-> 🧩 *“Build systems that scale, write code that lasts, and design logic that inspires.”*
+<img src="https://skillicons.dev/icons?i=html,css,js,git" /><br/>
+<a href="https://github.com/MuhammadNouman769/MuhammadNouman769">
+<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
+</a>
 
----
+</td>
+</tr>
+</table>
 
-✨ *Crafted with precision & passion by **Muhammad Nouman***
+</div>
+
+<br/>
+
+<!-- ═════════════ STATS ═════════════ -->
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNouman769&theme=tokyonight&hide_border=true&border_radius=14&date_format=M+j%5B%2C+Y%5D" height="170" alt="streak" />
+
+<br/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=MuhammadNouman769&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=14&include_all_commits=true&custom_title=Muhammad's+GitHub+Stats" height="190" alt="stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=MuhammadNouman769&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&langs_count=10" height="190" alt="top langs" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadNouman769&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="98%" alt="activity graph" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=MuhammadNouman769&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies" />
+
+</div>
+
+<br/>
+
+<!-- ═════════════ CONNECT ═════════════ -->
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:nomannisar769@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/muhammad-nouman-524ab9360/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/MuhammadNouman769"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://wa.me/923285774948?text=Hello%20Nouman%2C%20I%20would%20like%20to%20connect%20with%20you!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+<br/><br/>
+
+> 💬 *"Build systems that scale, write code that lasts, and design logic that inspires."*
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by+%E2%9C%A8;Let's+build+something+great+together+%F0%9F%9A%80" alt="footer typing" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=footer&animation=fadeIn" width="100%" alt="footer" />
 
 </div>
