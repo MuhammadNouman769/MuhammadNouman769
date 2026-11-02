@@ -13,8 +13,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=MuhammadNouman769&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views" />
 <img src="https://img.shields.io/github/followers/MuhammadNouman769?style=for-the-badge&logo=github&color=8957e5" alt="followers" />
-<img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Remote-00c853?style=for-the-badge" alt="open to work" />
-<a href="https://xveralabs.pythonanywhere.com/"><img src="https://img.shields.io/badge/Founder%20%40-XVeraLabs-00E0FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117" alt="XVeraLabs" /></a>
+<img src="https://img.shields.io/badge/Open%20to-Full--time%2C%20Freelance%20%26%20Remote-00c853?style=for-the-badge" alt="open to work" />
+<a href="https://xveralabs.pythonanywhere.com/"><img src="https://img.shields.io/badge/Building-XVeraLabs-00E0FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117" alt="XVeraLabs" /></a>
 
 </div>
 
@@ -29,10 +29,21 @@
 
 ```python
 class MuhammadNouman:
-    role      = "Backend Engineer & Django Specialist"
+    role      = "Backend Engineer | Django, DRF & FastAPI"
+    building  = "XVeraLabs (Custom Software, AI & Cloud)"
+    open_to   = ["Full-time", "Freelance", "Remote"]
     location  = "Pakistan 🇵🇰"
-    stack     = ["Python", "Django", "DRF", "FastAPI",
-                 "Celery", "Redis", "PostgreSQL", "Docker"]
+
+    backend   = ["Python", "Django", "Django REST Framework",
+                 "FastAPI", "GraphQL", "REST APIs"]
+    data      = ["PostgreSQL", "MongoDB", "MariaDB",
+                 "SQLite", "Redis"]
+    async_    = ["Celery", "Redis Queues", "Background Jobs"]
+    frontend  = ["React", "React Native", "HTMX",
+                 "Alpine.js", "Tailwind", "Bootstrap"]
+    devops    = ["Docker", "Docker Compose", "Linux", "AWS",
+                 "DigitalOcean", "GitHub Actions (CI/CD)"]
+
     currently = "Deepening skills in AI / ML Engineering"
     focus     = ["Scalable APIs", "Async Workflows",
                  "Database Design", "Automation"]
